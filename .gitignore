@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Playwright results
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Allure results
+/allure-results-Orangehrm/
+
+# API data
+/dataOrangehrm/
+/apiOrangehrm/
+
+# Logs
+/loggerOrangehrm/
+/logs/
+
+# Env files
+.env
+.env.*
+
+# VSCode settings
+.vscode/
+
+# TypeScript build
+dist/
+build/
